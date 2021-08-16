@@ -1,0 +1,1 @@
+# sistema-que-prediz-se-a-soja-esta-padrao-ou-nao-padrao-pycaret-Extra-Trees-Classifier-.ipynb
